@@ -10,7 +10,7 @@ The extension replaces the incorrect names with the correct one while preserving
 - Configurable list of words to replace, stored in [`config.json`](./config.json).
 
 ## Installation
-1. Clone the repository to your local machine.
+1. Clone the repository to your local machine or download from [*here*](https://github.com/Guliveer/Bibinos/releases/latest/download/Bibinos.zip).
 2. Open Chrome and navigate to `chrome://extensions/` (or equivalent for your browser).
 3. Enable "**Developer mode**" by toggling the switch in the top right corner.
 4. Click "**Load unpacked**" and select the directory with the extension files.
